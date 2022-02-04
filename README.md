@@ -5,5 +5,6 @@
 The information is organized as follows:
 
 * Data Cleaning
-* Data Visualization (made with Tableau)
-* Data Statistics 
+* Data Visualization
+* Data Statistics
+* Data Predictions

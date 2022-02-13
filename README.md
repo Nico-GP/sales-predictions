@@ -8,3 +8,4 @@ The information is organized as follows:
 * Data Visualization
 * Data Statistics
 * Data Predictions
+* Data Summary
